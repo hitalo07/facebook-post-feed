@@ -70,9 +70,9 @@ header div > i {
 }
 
 .post .post-header .avatar {
-  width: 45px;
-  height: 45px;
-  border-radius: 50%;
+  width: 46px;
+  height: 46px;
+  border-radius: 23px;
 }
 
 .post .post-header .details {
@@ -115,7 +115,7 @@ header div > i {
 }
 
 .post .post-comments .comment .avatar {
-  width: 45px;
-  height: 45px;
-  border-radius: 50%;
+  width: 46px;
+  height: 46px;
+  border-radius: 23px;
 }
